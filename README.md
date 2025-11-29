@@ -88,7 +88,7 @@ Straightforward tools for data analysis.
 
 ---
 
-# 📈 Mermaid Charts (Beautiful & Simple)
+
 
 ### ⭐ Yearly Sighting Trend (Concept Flow)
 
