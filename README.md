@@ -1,6 +1,6 @@
 
 
-# 🛸 **UFO Sightings Analysis — Simple & Super-Dooper Project README**
+# 🛸 **UFO Sightings Analysis**
 
 This project is all about studying UFO sightings from many years.
 We take real data, clean it, understand it, and show amazing charts.
