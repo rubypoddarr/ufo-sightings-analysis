@@ -1,5 +1,3 @@
-
-
 # 🛸 **UFO Sightings Analysis**
 
 This project is all about studying UFO sightings from many years.
